@@ -11,7 +11,7 @@ export default function Home({allPostsData}) {
     </head>
     <section className={utilstyle.headingMd}>
       <p>
-        私はフルスタックエンジニアを目指してます、Udemyで勉強中です。好きな言語はjavascript（開発歴２５年）です。
+        私はフルスタックエンジニアを目指してます、Udemyで勉強中です。好きなフレームワークはNexsjsです。
       </p>
     </section>
 
